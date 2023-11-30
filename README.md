@@ -1,5 +1,5 @@
 # app-dev
-My First repository
+My first repository
 
 **No Escape**
 1. The love you give me
